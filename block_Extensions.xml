@@ -1,0 +1,11 @@
+<dict>
+    <key>ExtensionInstallBlocklist</key>
+    <array>
+        <string>*</string> <!-- This blocks all extensions -->
+    </array>
+    <key>ExtensionInstallAllowlist</key>
+    <array>
+        <!--<string> difoiogjjojoaoomphldepapgpbgkhkb </string> -->
+        <!-- Add allowed extension IDs here -->
+    </array>
+</dict>
